@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "curso-nodejs",
+  "description": "material do curso de NodeJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bisslee/curso-nodejs.git"
+  },
+  "keywords": [
+    "curso",
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Biss Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bisslee/curso-nodejs/issues"
+  },
+  "homepage": "https://github.com/bisslee/curso-nodejs#readme"
+}
